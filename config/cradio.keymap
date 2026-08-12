@@ -127,7 +127,7 @@
             &kp LSHFT    &kp A       &kp S    &kp D       &kp F           &trans    &kp N4     &kp N5     &kp N6    &trans
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼────────────┼──────────┼─────── ┼──────────┤
         //│          │    LALT  │      C   │     V    │   ENTER  │   │          │    1       │  2       │  3     │ Layer 0  │
-            &kp LCTRL  &ht LALT    &kp C     &kp V    &kp ENTER         &trans     &kp N1     &kp N2     &kp N3     &to 0
+            &kp LCTRL  &kp LALT    &kp C     &kp V    &kp ENTER         &trans     &kp N1     &kp N2     &kp N3     &to 0
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
                                              &kp Z      &kp SPACE         &kp T     &trans
         //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
